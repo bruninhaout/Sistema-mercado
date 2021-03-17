@@ -1,0 +1,45 @@
+FEITO - terminar função "excluirItem" (Bruna)
+FEITO - terminar função "formExcluiritem" (Rodrigo)
+FEITO - concertar função "listaItens" (Rodrigo)
+FEITO - concertar função "confirmarExclusão" (Rodrigo e Bruna)
+FEITO - alterar dados de um item (Bruna e Rodrigo)
+
+
+FEITO - Registrar uma compra - ok
+Listar compras feitas em um determinado dia
+
+FEITO - Cadastrar um item do estoque - OK
+FEITO - Listar os itens não excluídos - OK
+FEITO - Alterar os dados de um item - OK
+FEITO -  Excluir um item sem remove-lo do sistema - OK
+FEITO -  Validar que um item não seja cadastro com um identificador já utilizado - OK
+
+Quando faz venda n esta configurado certinho
+
+FEITO - RESOLVER ESSA PICA - função "listar compras feitas" (mirelly);
+FEITO - mostrar a quantidade disponivel na hora de venda
+FEITO- subtrair produtos comprados (mirelly);
+
+FEITO - impedir a vendas de produtos desativados
+FEITO - impedir nomes grandes de mais
+
+
+FEITOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+Agora é achar bugs, insetos
+espeaque inglishi bitch!
+
+No momento de cadastra um item o administrador deve informar:
+FEITO - • Identificador do produto (um número único para cada produto)
+FEITO - • Nome do produto
+FEITO - • Preço
+FEITO - • Quantidade
+
+
+FEITO - • Cadastrar um item do estoque
+FEITO - • Listar os itens não excluídos
+FEITO - • Alterar os dados de um item
+FEITO - • Excluir um item sem remove-lo do sistema
+FEITO - • Registrar uma compra
+FEITO - • Validar que um item não seja cadastro com um identificador já utilizado
+FEITO - • Listar compras feitas em um determinado dia

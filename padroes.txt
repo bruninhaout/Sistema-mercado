@@ -1,0 +1,5 @@
+padrão do bando de dados:
+  - dbProdutos: [ID] - {PREÇO, QUANTIDADE} - (DATA DE INSERÇÃO, ATIVO?) - #NOME DO PRODUTO;
+
+0 desativado
+1 ativado
